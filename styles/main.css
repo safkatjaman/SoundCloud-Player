@@ -64,3 +64,8 @@ html, body {
 	justify-content: center;
     margin-top: 30px;
 }
+
+#image-css {
+	width: 290px;
+	height: 290px;
+}
